@@ -2,19 +2,19 @@
 
 ## Overview
 
-![Steganography](https://user-images.githubusercontent.com/44112210/76523210-0463bb80-648e-11ea-8b5d-2e96d84c30cf.png)
+![Steganography](https://user-images.githubusercontent.com/82942897/115674140-35a1f280-a302-11eb-8869-4f227e279534.png)
 ___
 
 ## Embedding
 
-![Embed](https://user-images.githubusercontent.com/44112210/76523212-062d7f00-648e-11ea-9bef-62d6c5713db2.png)
+![Embed](https://user-images.githubusercontent.com/82942897/115674143-363a8900-a302-11eb-8789-2d4bf6a76f5c.png)
 ___
 
 ## Extraction
 
-![Extract](https://user-images.githubusercontent.com/44112210/76523227-09c10600-648e-11ea-9aa0-7fb3f5c0e69d.png)
+![Extract](https://user-images.githubusercontent.com/82942897/115674151-376bb600-a302-11eb-955f-7e427d8eaf4e.png)
 ___
 
 ## Splitting Byte
-![SplitByte and Merge to Pixel](https://user-images.githubusercontent.com/44112210/76523236-0c236000-648e-11ea-95a9-fe94f1c4d296.png)
+![SplitByte and Merge to Pixel](https://user-images.githubusercontent.com/82942897/115674133-3470c580-a302-11eb-8cc9-ac7b6707a952.png)
 ___
